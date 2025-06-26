@@ -23,9 +23,9 @@ repository               : "sakusumastuti/sakusumastuti.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Sarah A. Kusumastuti, pHd"
+  name             : "Sarah A. Kusumastuti, PhD"
   pronouns         : "<i>she/her</i>"  
-  bio              : "Assistant Professor in Human-AI interaction and data science"
+  bio              : "<b>Assistant Professor in Human-AI interaction and data science</b>"
   location         : #"Earth"
   employer         : "University of Twente"
   uri              : # URL
