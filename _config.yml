@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-UK"
 site_theme               : "default"
-title                    : "website of Sarah A. Kusumastuti"
+title                    : "Sarah A. Kusumastuti, PhD"
 title_separator          : "-"
 name                     : &name "Sarah A. Kusumastuti"
 description              : &description "personal description"
@@ -79,7 +79,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books Chapters'
+    title: 'Book Chapters'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
