@@ -2,10 +2,10 @@
 title: "Teaching experience"
 collection: teaching
 #type: "Tutorial Assistant"
-permalink: /teaching/techexp
+#permalink: /teaching/techexp
 #venue: "University of Twente"
-date: 2024-2025
-location: "Enschede, Netherlands"
+#date: 2024-2025
+#location: "Enschede, Netherlands"
 ---
 
 ## University of Twente
