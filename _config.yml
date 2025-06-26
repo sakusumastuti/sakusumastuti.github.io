@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-UK"
 site_theme               : "default"
-title                    : "Sarah A. Kusumastuti, PhD"
+title                    : "Sarah A. Kusumastuti"
 title_separator          : "-"
-name                     : &name "Sarah A. Kusumastuti"
+name                     : &name "Sarah A. Kusumastuti, PhD"
 description              : &description "personal description"
 url                      : https://sakusumastuti.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Sarah A. Kusumastuti"
   pronouns         : "she/her"  
-  bio              : <i>"Assistant Professor in Human-AI interaction and data science"</i>
+  bio              : "<i>Assistant Professor in Human-AI interaction and data science</i>"
   location         : #"Earth"
   employer         : "University of Twente"
   uri              : # URL
