@@ -17,27 +17,3 @@ My work covers various topics from decision making in cybersecurity from the per
 A recent emerging direction to my research focus involves human-technology interaction, particularly trust in automation and AI.
 
 On my free time I like to watch films and try to watch two films a week. My four favourite films are Beau Travail (1999, dir. Clair Denis), Wings of Desire/Der Himmel über Berlin (1987, dir. Wim Wenders), Wild at Heart (1992, dir. David Lynch), and The Needle/Игла (1988, dir. Rashid Nugmanov). My other hobbies include traveling, lifting weights, collecting maps, and watching sumo wrestling.
-
----
-permalink: /
-title: "Publications"
-author_profile: true
-redirect_from: 
-  - /publication/
-  - /publications.html
----
-
----
-permalink: /
-title: "Teaching"
-author_profile: true
-redirect_from: 
-  - /teaching/
-  - /teaching.html
----
-
----
-permalink: /
-title: "Miscellaneous"
-author_profile: true
----
