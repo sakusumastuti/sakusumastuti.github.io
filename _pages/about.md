@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at [BMS-CoDE](https://www.utwente.nl/en/bms/code/), University of Twente. Prior to this appointment I was a postdoctoral researcher in human factors at CoDE in collaboration with [ProRail](https://www.prorail.nl/) for [Europe's Rail Joint Undertaking (ERJU)](https://rail-research.europa.eu/) 
+I am an [assistant professor at BMS-CoDE](https://people.utwente.nl/s.a.kusumastuti), University of Twente. Prior to this appointment, I was a postdoctoral researcher in human factors at CoDE in collaboration with [ProRail](https://www.prorail.nl/) for [Europe's Rail Joint Undertaking (ERJU)](https://rail-research.europa.eu/) 
 
-I recieved my PhD and M.A. in Quantitative Psychology under [Dr. Richard S. John](https://create.usc.edu/create_teams/richard-john/) in the [Quantitative Methods and Computational Psychology (QMCP)](https://dornsife.usc.edu/psyc/qmcp/) group in the Department of Psychology at University of Southern California, as well as a [B.Sc in Mathematical Statistics](https://www.stat.purdue.edu/news/2014/spring_2014_grads.html) from Purdue University.
+I received my PhD and M.A. in Quantitative Psychology under [Dr. Richard S. John](https://create.usc.edu/create_teams/richard-john/) in the [Quantitative Methods and Computational Psychology (QMCP)](https://dornsife.usc.edu/psyc/qmcp/) group in the Department of Psychology at University of Southern California, as well as a [B.Sc in Mathematical Statistics](https://www.stat.purdue.edu/news/2014/spring_2014_grads.html) from Purdue University.
 
 **Research**
 
 My research incorporates knowledge from the domain of judgment and decision making, experimental psychology, simulations, psychological measurement, and general quantitative social science methods to approach problems related to human factors, risk perception, decision analysis, transportation and human-technology interaction. 
-As part of the [Oost Simulation Center](https://www.utwente.nl/en/bmslab/facilities-equipment-and-software/oost-simulation-centre/) at the University of Twente BMS Lab, I work and with VR simulations, particularly in the transport domain.
-I am also a part of the SSH Sector Plan The Human Factors in New Technology, subtheme Making Tech Work
+As part of the [Oost Simulation Center](https://www.utwente.nl/en/bmslab/facilities-equipment-and-software/oost-simulation-centre/) at the University of Twente BMS Lab, I work and with VR simulations, particularly in the transport domain. I am also a member of the SSH Sector Plan The Human Factors in New Technology, subtheme Making Tech Work.
+All my papers are available on my [ResearchGate page](https://www.researchgate.net/profile/Sarah-Kusumastuti).
 
 **Teaching**
 
@@ -28,5 +28,5 @@ I do not have any PhD positions open in the near term (working on it!), but as a
 
 **Miscellaneous**
 
-On my free time I like to watch films and try to watch two films a week. My four favourite films are Beau Travail (1999, dir. Clair Denis), Wings of Desire/Der Himmel über Berlin (1987, dir. Wim Wenders), Wild at Heart (1992, dir. David Lynch), and The Needle/Игла (1988, dir. Rashid Nugmanov). My other hobbies include traveling, lifting weights, collecting maps, and watching sumo wrestling (my favourite rikishi is Kirishima Tetsuo).
+I grew up somewhere among the oil fields, tropical jungle and vast palm plantations of Riau, Indonesia. On my free time I like to watch films and try to go to the cinema every week. My four favourite films are Beau Travail (1999, dir. Clair Denis), Wings of Desire/Der Himmel über Berlin (1987, dir. Wim Wenders), Wild at Heart (1992, dir. David Lynch), and The Needle/Игла (1988, dir. Rashid Nugmanov - I even visited the [iconic monument](../images/almatystatue.png) in [Almaty](https://maps.app.goo.gl/EGw96iNHgDcRWXAE7)). My other hobbies include traveling, lifting weights, collecting maps, and watching sumo wrestling ([my favourite rikishi is Kirishima Tetsuo](../images/kirilondon.jpg)).
 
