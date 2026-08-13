@@ -13,20 +13,20 @@ I received my PhD and M.A. in Quantitative Psychology under [Dr. Richard S. John
 
 **Research**
 
-My research incorporates knowledge from the domain of judgment and decision making, experimental psychology, simulations, psychological measurement, and general quantitative social science methods to approach problems related to human factors, risk perception, decision analysis, transportation and human-technology interaction. 
-As part of the [Oost Simulation Center](https://www.utwente.nl/en/bmslab/facilities-equipment-and-software/oost-simulation-centre/) at the University of Twente BMS Lab, I work and with VR simulations, particularly in the transport domain. I am also a member of the SSH Sector Plan The Human Factors in New Technology, subtheme Making Tech Work.
+My research incorporates knowledge from the domain of judgment and decision making, experimental psychology, simulations, psychological measurement, and general quantitative social science methods to approach problems related to human factors, risk perception, decision analysis, transportation and human-technology interaction. For example, I worked extensively with ProRail on designing and conducting experiments with the multi-actor human-in-the-loop simulation facilities for train traffic control operations to investigate the effects of Automated Train Operations (ATO) on operator workload and communication.
+As part of the [Oost Simulation Center](https://www.utwente.nl/en/bmslab/facilities-equipment-and-software/oost-simulation-centre/) at the University of Twente BMS Lab, I work and with VR simulations, particularly in the transport domain. I am also a member of the SSH Sector Plan [The Human Factors in New Technologies](https://sshraad.nl/en/progress-social-sciences/theme-3-the-human-factor-in-new-technologies/), subtheme [Making Tech Work](https://ru-sectorplanthema.webflow.io/themas/making-tech-work).
 All my papers are available on my [ResearchGate page](https://www.researchgate.net/profile/Sarah-Kusumastuti).
 
 **Teaching**
 
-On the pedagogical side I teach statistics and research methods for social scientists, including statistical programming in R. I also deliver lectures in various other topics of my expertise such as human factors in transport and decision making.
+On the pedagogical side I teach statistics and research methods for social scientists, including statistical programming in R. I also deliver lectures in various other topics of my expertise such as human-technology interaction, human factors in transport and behavioural decision making.
 
 **Supervision**
 
 I welcome motivated bachelors and masters student from the Human Factors Engineering (HFE) track at the Psychology program at the University of Twente to work under my supervision for their thesis. You can see available projects [here](https://www.utwente.nl/en/bms/code/education/thesis-and-internships/bsc-human-factors-and-engineering-psychology/) for bachelors students or in Canvas for masters students. You can also propose a topic yourself (inquire at s.a.kusumastuti{at}utwente.nl)
-I do not have any PhD positions open in the near term (working on it!), but as a continuation of the Europe's Rail project, I will be recruiting a postdoc on the second half of 2027.
+I do not have any funded PhD positions open in the near term (working on it!), but as a continuation of the Europe's Rail project, I will be recruiting a postdoc on the second half of 2027.
 
 **Miscellaneous**
 
-I grew up somewhere among the oil fields, tropical jungle and vast palm plantations of Riau, Indonesia. On my free time I like to watch films and try to go to the cinema every week. My four favourite films are Beau Travail (1999, dir. Clair Denis), Wings of Desire/Der Himmel über Berlin (1987, dir. Wim Wenders), Wild at Heart (1992, dir. David Lynch), and The Needle/Игла (1988, dir. Rashid Nugmanov - I even visited the [iconic monument](../images/almatystatue.png) in [Almaty](https://maps.app.goo.gl/EGw96iNHgDcRWXAE7)). My other hobbies include traveling, lifting weights, collecting maps, and watching sumo wrestling ([my favourite rikishi is Kirishima Tetsuo](../images/kirilondon.jpg)).
+I grew up somewhere among the oil fields, tropical jungle and vast palm plantations of Riau, Indonesia. On my free time I like to watch films and try to go to the cinema every week. My four favourite films are Beau Travail (1999, dir. Clair Denis), Wings of Desire/Der Himmel über Berlin (1987, dir. Wim Wenders), Wild at Heart (1992, dir. David Lynch), and The Needle/Игла (1988, dir. Rashid Nugmanov - I even [visited the iconic statue](../images/almatystatue.png) in [Almaty](https://maps.app.goo.gl/EGw96iNHgDcRWXAE7)). My other hobbies include traveling (particularly on trains), lifting weights, cooking southeast asian and middle eastern dishes, collecting maps, and watching sumo wrestling ([my favourite rikishi](../images/kirilondon.jpg) is [Kirishima Tetsuo](https://en.wikipedia.org/wiki/Kirishima_Tetsuo)).
 
