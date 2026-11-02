@@ -1,33 +1,58 @@
----
+<img width="3118" height="2268" alt="image" src="https://github.com/user-attachments/assets/b0c01e39-6d0d-47ca-a3c9-9f0d8a8ed0fc" />---
 permalink: /
-title: "Biography"
+title: "Sarah A. Kusumastuti"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am an [assistant professor at BMS-CoDE](https://people.utwente.nl/s.a.kusumastuti), University of Twente. Prior to this appointment, I was a postdoctoral researcher in human factors at CoDE in collaboration with [ProRail](https://www.prorail.nl/) for [Europe's Rail Joint Undertaking (ERJU)](https://rail-research.europa.eu/) 
+## Judgment and decision making • Human Factors • Quantitative psychology
 
-I received my PhD and M.A. in Quantitative Psychology under [Dr. Richard S. John](https://create.usc.edu/create_teams/richard-john/) in the [Quantitative Methods and Computational Psychology (QMCP)](https://dornsife.usc.edu/psyc/qmcp/) group in the Department of Psychology at University of Southern California, as well as a [B.Sc in Mathematical Statistics](https://www.stat.purdue.edu/news/2014/spring_2014_grads.html) from Purdue University.
+I study how people interact with automation and AI, with a focus on
+decision-making, transportation systems, and human-centred technology.
 
-**Research**
+[CV](#) • [Google Scholar](https://scholar.google.com/citations?user=iROs8MkAAAAJ&hl=en) • [ORCID](https://orcid.org/0000-0001-6362-218X) • [GitHub](https://github.com/sakusumastuti)
 
-My research incorporates knowledge from the domain of judgment and decision making, experimental psychology, simulations, psychological measurement, and general quantitative social science methods to approach problems related to human factors, risk perception, decision analysis, transportation and human-technology interaction. For example, I worked extensively with ProRail on designing and conducting experiments with the multi-actor human-in-the-loop simulation facilities for train traffic control operations to investigate the effects of Automated Train Operations (ATO) on operator workload and communication [[conference paper here]](https://publications.ergonomics.org.uk/publications/a-multi-actor-human-in-the-loop-simulation-methodology-to-examine-human-automation-interaction-in-railways).
+# Research
 
-As part of the [Oost Simulation Center](https://www.utwente.nl/en/bmslab/facilities-equipment-and-software/oost-simulation-centre/) at the University of Twente BMS Lab, I work and with VR simulations, particularly in the transport domain. I am also a member of the SSH Sector Plan [The Human Factors in New Technologies](https://sshraad.nl/en/progress-social-sciences/theme-3-the-human-factor-in-new-technologies/), subtheme [Making Tech Work](https://ru-sectorplanthema.webflow.io/themas/making-tech-work).
-All my papers are available on my [ResearchGate page](https://www.researchgate.net/profile/Sarah-Kusumastuti).
+My work focuses on:
 
-**Teaching**
+- Judgment and decision making 
+- Human factors
+- Transportation and mobility
+- Simulation and virtual reality
 
-On the pedagogical side I teach statistics and research methods for social scientists, including statistical programming in R. I also contribute to courses related to other topics of my expertise such as human-technology interaction, human factors in transport, and behavioural decision making.
+# Selected Publications
 
-**Supervision**
+### Charting the landscape of rail human factors and automation: A systematic scoping review
 
-I welcome motivated bachelors and masters student from the Human Factors Engineering (HFE) track at the Psychology program at the University of Twente to work under my supervision for their thesis. You can see available projects [here](https://www.utwente.nl/en/bms/code/education/thesis-and-internships/bsc-human-factors-and-engineering-psychology/) for bachelors students or in Canvas for masters students. You can also propose a topic yourself (inquire at s.a.kusumastuti {at} utwente.nl)
-I do not have any funded PhD positions open in the near term (working on it!), but as a continuation of the Europe's Rail project, I will be recruiting a postdoc on the second half of 2027.
+Compiles decades of studies and insight into rail human factors research to providing outlook on the future of rail automation
 
-**Miscellaneous**
+### Consequences of Missing Objectives in Applications of Multiattribute Utility Analysis
 
-I grew up somewhere among the oil fields, tropical jungle and vast palm plantations of Riau, Indonesia. On my free time I like to watch films and try to go to the cinema every week. My four favourite films are Beau Travail (1999, dir. Clair Denis), Wings of Desire/Der Himmel über Berlin (1987, dir. Wim Wenders), Wild at Heart (1992, dir. David Lynch), and The Needle/Игла (1988, dir. Rashid Nugmanov - I even [visited the iconic statue](../images/almatystatue.png) in [Almaty](https://maps.app.goo.gl/EGw96iNHgDcRWXAE7)). My other hobbies include traveling (particularly on trains), lifting weights, cooking southeast asian and middle eastern dishes, collecting maps, and watching sumo wrestling ([Kirishima Tetsuo](https://en.wikipedia.org/wiki/Kirishima_Tetsuo) is [my favourite rikishi](../images/kirilondon.jpg)).
+Exploring the consequence of a fundamental issues in multiattribute decision methods: incompleteness of objectives in a decision framework. One of three papers from my dissertation that explores this question with different techniques
 
+[View all publications](https://www.researchgate.net/profile/Sarah-Kusumastuti/research)
+
+# Current Projects
+
+- Rail automation - part of Europe's rail joint undertaking)
+- Human-centred technology - part of SectorPlan SSH The Human Factors in New Technologies, subtheme Making Tech Work)
+- VR experimentation - part of Oost Simulation centre
+- developing my Grand Idea on decision making (top secret work in progress...)
+
+# Teaching and Engagement 
+
+
+
+Current teaching includes:
+
+- Statistics for behavioural scientists
+- Programming in R
+- Human factors (particularly in transport)
+- Research Methods
+
+# Miscellaneous
+
+I grew up somewhere among the oil fields, tropical jungle and vast palm plantations of Riau, Indonesia. On my free time I like to watch films and try to go to the cinema every week. My four favourite films are Beau Travail (1999, dir. Clair Denis), Wings of Desire/Der Himmel über Berlin (1987, dir. Wim Wenders), Wild at Heart (1992, dir. David Lynch), and The Needle/Игла (1988, dir. Rashid Nugmanov - I even visited the iconic statue in Almaty). My other hobbies include traveling (particularly on trains), lifting weights, cooking southeast asian and middle eastern dishes, collecting maps, and watching sumo wrestling (Kirishima Tetsuo is my favourite rikishi).
